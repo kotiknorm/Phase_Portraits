@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Phase Portraits</string>
+    <string name="enter">Ввести</string>
+    <string name="clear">Очистить</string>
+    <string name="info_text">ведите коэффициенты системы уравнений</string>
+
+</resources>
